@@ -1,0 +1,4 @@
+OrderID,Date,Customer,Product,Amount,Location
+1001,2023-12-01,Amit Sharma,Smartphone,15999,Delhi
+1002,2023-12-01,Neha Gupta,Laptop,55999,Mumbai
+1006,2023-12-04,Sunil Joshi,Smartwatch,9999,Chennai
